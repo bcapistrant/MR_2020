@@ -1,0 +1,241 @@
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    
+        <url>
+            <loc>/about/</loc>
+            
+                <lastmod>2020-01-27T00:00:00+00:00</lastmod>
+            
+            
+                <changefreq>weekly</changefreq>
+            
+            
+                <priority>0.5</priority>
+            
+            
+        </url>
+    
+        <url>
+            <loc>/</loc>
+            
+                <lastmod>2020-01-27T00:00:00+00:00</lastmod>
+            
+            
+                <changefreq>weekly</changefreq>
+            
+            
+                <priority>0.5</priority>
+            
+            
+        </url>
+    
+        <url>
+            <loc>/syllabus/</loc>
+            
+                <lastmod>2020-01-23T00:00:00+00:00</lastmod>
+            
+            
+                <changefreq>weekly</changefreq>
+            
+            
+                <priority>0.5</priority>
+            
+            
+        </url>
+    
+        <url>
+            <loc>/categories/</loc>
+            
+                <lastmod>2019-08-25T16:22:42+08:00</lastmod>
+            
+            
+                <changefreq>weekly</changefreq>
+            
+            
+                <priority>0.5</priority>
+            
+            
+        </url>
+    
+        <url>
+            <loc>/categories/documentation/</loc>
+            
+                <lastmod>2019-08-25T16:22:42+08:00</lastmod>
+            
+            
+                <changefreq>weekly</changefreq>
+            
+            
+                <priority>0.5</priority>
+            
+            
+        </url>
+    
+        <url>
+            <loc>/tags/hugo/</loc>
+            
+                <lastmod>2019-08-25T16:22:42+08:00</lastmod>
+            
+            
+                <changefreq>weekly</changefreq>
+            
+            
+                <priority>0.5</priority>
+            
+            
+        </url>
+    
+        <url>
+            <loc>/2019/08/loveit-preview/</loc>
+            
+                <lastmod>2019-08-25T16:22:42+08:00</lastmod>
+            
+            
+                <changefreq>weekly</changefreq>
+            
+            
+                <priority>0.5</priority>
+            
+            
+        </url>
+    
+        <url>
+            <loc>/posts/</loc>
+            
+                <lastmod>2019-08-25T16:22:42+08:00</lastmod>
+            
+            
+                <changefreq>weekly</changefreq>
+            
+            
+                <priority>0.5</priority>
+            
+            
+        </url>
+    
+        <url>
+            <loc>/tags/</loc>
+            
+                <lastmod>2019-08-25T16:22:42+08:00</lastmod>
+            
+            
+                <changefreq>weekly</changefreq>
+            
+            
+                <priority>0.5</priority>
+            
+            
+        </url>
+    
+        <url>
+            <loc>/tags/theme/</loc>
+            
+                <lastmod>2019-08-25T16:22:42+08:00</lastmod>
+            
+            
+                <changefreq>weekly</changefreq>
+            
+            
+                <priority>0.5</priority>
+            
+            
+        </url>
+    
+        <url>
+            <loc>/about_archive.rmd/</loc>
+            
+                <lastmod>2019-08-02T11:04:49+08:00</lastmod>
+            
+            
+                <changefreq>weekly</changefreq>
+            
+            
+                <priority>0.5</priority>
+            
+            
+        </url>
+    
+        <url>
+            <loc>/post/2015-07-23-r-rmarkdown/</loc>
+            
+                <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+            
+            
+                <changefreq>weekly</changefreq>
+            
+            
+                <priority>0.5</priority>
+            
+            
+        </url>
+    
+        <url>
+            <loc>/tags/plot/</loc>
+            
+                <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+            
+            
+                <changefreq>weekly</changefreq>
+            
+            
+                <priority>0.5</priority>
+            
+            
+        </url>
+    
+        <url>
+            <loc>/post/</loc>
+            
+                <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+            
+            
+                <changefreq>weekly</changefreq>
+            
+            
+                <priority>0.5</priority>
+            
+            
+        </url>
+    
+        <url>
+            <loc>/categories/r/</loc>
+            
+                <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+            
+            
+                <changefreq>weekly</changefreq>
+            
+            
+                <priority>0.5</priority>
+            
+            
+        </url>
+    
+        <url>
+            <loc>/tags/r-markdown/</loc>
+            
+                <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+            
+            
+                <changefreq>weekly</changefreq>
+            
+            
+                <priority>0.5</priority>
+            
+            
+        </url>
+    
+        <url>
+            <loc>/tags/regression/</loc>
+            
+                <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+            
+            
+                <changefreq>weekly</changefreq>
+            
+            
+                <priority>0.5</priority>
+            
+            
+        </url>
+    
+</urlset>
