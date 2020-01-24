@@ -1,4 +1,4 @@
-baseURL = "https://example.com/"
+baseURL = "https://multipleregression.netlify.com/"
 languageCode = "en"                                      # website language
 defaultContentLanguage = "en"                            # [en, zh, ...] determines which i18n file to use
 title = "Multiple Regression"                                   # website title
