@@ -20,7 +20,7 @@ pygmentsUseClasses = true
 pygmentsCodefencesGuessSyntax = true
 
 staticDir = ["static", "../assets/others"]               # static directories
-ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+ignoreFiles = ["_files$", "_cache$"]
 
 [author]                                              #### Author Info
   name = "Ben Capistrant"
@@ -35,7 +35,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [menu]                                                #### Menu Info
   [[menu.main]]
-    identifier = "posts"
+    identifier = "Course"
     name = "Posts"
     url = "posts"
     weight = 1
@@ -78,7 +78,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
                                                       #### Home Page Info
   home_mode = "post"                                     # [post, other] home mode
   home_paginate = 6                                      # special amount of posts in each home post page
-  avatar = "images/291scatter_v02.png"                           # URL of avatar shown in home page
+  avatar = "images/291scatter_v03_a.png"                           # URL of avatar shown in home page
   subtitle = "SDS/MTH 291: Multiple Regresssion"  # subtitle shown in home page
 
   socialShare = true                                     # whether to show social share links in post page
@@ -198,17 +198,17 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   [params.publisher]                                     # Publisher Info just for SEO
     name = "XXXX"
     [params.publisher.logo]
-      url = "logo.png"
+      url = "291scatter_v03.png"
       width = 127
       height = 40
 
   [params.logo]                                          # Website Log Info just for SEO
-    url = "logo.png"
+    url = "291scatter_v03.png"
     width = 127
     height = 40
 
   [params.image]                                         # Website Image Info just for SEO
-    url = "cover.png"
+    url = "291scatter_v03.png"
     width = 800
     height = 600
 
@@ -224,7 +224,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     appKey = ""
     notify = false
     verify = true
-    avatar = "mp"
+    avatar = ""
     placeholder = "Your comment ..."
     visitor = true
     recordIP = true

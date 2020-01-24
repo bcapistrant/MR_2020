@@ -7,18 +7,29 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Sun, 25 Aug 2019 16:22:42 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jan 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>LoveIt Theme Preview and Documentation</title>
-      <link>/2019/08/loveit-preview/</link>
-      <pubDate>Sun, 25 Aug 2019 16:22:42 +0800</pubDate>
+      <title>Getting Started in the class</title>
+      <link>/2020/01/20200123-gettingstarted/</link>
+      <pubDate>Mon, 20 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>/2019/08/loveit-preview/</guid>
-      <description>&lt;p&gt;This is a &lt;a href=&#34;https://github.com/dillonzq/LoveIt&#34;&gt;LoveIt&lt;/a&gt; theme preview and documentation page.&lt;/p&gt;</description>
+      <guid>/2020/01/20200123-gettingstarted/</guid>
+      <description>true  Welcome to Multiple Regression! I’m looking forward to working with you this semester, getting to know each of you and hopefully helping to expand your skills as emerging data scientists.
+What are we doing in this course? I hope that by the end of the semester you will have a clear, confident identity as a regression modeller. Being able to work with data, fitting regression models, and being able to communicate what you did and what you found will be extremely valuable skills in quantitative-oriented work in your future.</description>
+    </item>
+    
+    <item>
+      <title>Getting Started in the class</title>
+      <link>/2020/01/20200123-gettingstarted/</link>
+      <pubDate>Mon, 20 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/01/20200123-gettingstarted/</guid>
+      <description>Welcome to Multiple Regression! I&#39;m looking forward to working with you this semester, getting to know each of you and hopefully helping to expand your skills as emerging data scientists.
+What are we doing in this course? I hope that by the end of the semester you will have a clear, confident identity as a regression modeller. Being able to work with data, fitting regression models, and being able to communicate what you did and what you found will be extremely valuable skills in quantitative-oriented work in your future.</description>
     </item>
     
   </channel>

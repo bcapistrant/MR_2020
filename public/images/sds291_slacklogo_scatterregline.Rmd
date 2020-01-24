@@ -1,0 +1,70 @@
+---
+title: "SDS291 Scatterplot"
+author: "SDS 291"
+date: "September 15, 2017"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+correlatedValue = function(x, r){
+  r2 = r**2
+  ve = 1-r2
+  SD = sqrt(ve)
+  e  = rnorm(length(x), mean=0, sd=SD)
+  y  = r*x + e
+  return(y)
+}
+
+set.seed(5)
+x = rnorm(1000)
+y = correlatedValue(x=x, r=.5)
+df<-as.data.frame(cbind(x,y))
+
+library(ggplot2)
+ggplot(df,aes(y,x)) + geom_point(color="#002F5F", size = 0.5) +  
+  geom_smooth(method='lm', formula= y~x,col="#F2A900", lwd=1) + theme_bw() + 
+  theme(axis.title.x=element_blank(),
+        axis.text.x=element_blank(),
+        axis.ticks.x=element_blank(),
+        axis.title.y=element_blank(),
+        axis.text.y=element_blank(),
+        axis.ticks.y=element_blank(),
+        axis.line = element_blank(),
+        panel.grid.major = element_blank(),
+        panel.grid.minor = element_blank(),
+        panel.border = element_blank(),
+        panel.background = element_blank())
+
+#+  annotate("text",label="SDS 291",x=-2,y=4, size=3)
+ggsave("~/Dropbox/3_Smith/SDS291/MR_2020/static/291scatter_v03.png", width=3, height=3, units="in")
+```
+
+```{r}
+set.seed(5)
+x = rnorm(10000)
+y = correlatedValue(x=x, r=.5)
+df<-as.data.frame(cbind(x,y))
+
+library(ggplot2)
+ggplot(df,aes(y,x)) + geom_point(color="#002F5F", size = 0.5) +  
+  geom_smooth(method='lm', formula= y~x,col="#F2A900", lwd=8) + theme_bw() + 
+  theme(axis.title.x=element_blank(),
+        axis.text.x=element_blank(),
+        axis.ticks.x=element_blank(),
+        axis.title.y=element_blank(),
+        axis.text.y=element_blank(),
+        axis.ticks.y=element_blank(),
+        axis.line = element_blank(),
+        panel.grid.major = element_blank(),
+        panel.grid.minor = element_blank(),
+        panel.border = element_blank(),
+        panel.background = element_blank())
+
+#+  annotate("text",label="SDS 291",x=-2,y=4, size=3)
+ggsave("~/Dropbox/3_Smith/SDS291/MR_2020/static/291scatter_v04.png", width=3, height=3, units="in")
+```
+

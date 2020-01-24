@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Course Logistics on Multiple Regression</title>
+    <link>/tags/course-logistics/</link>
+    <description>Recent content in Course Logistics on Multiple Regression</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Thu, 23 Jan 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/course-logistics/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Getting Started in the class</title>
+      <link>/syllabus/</link>
+      <pubDate>Thu, 23 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/syllabus/</guid>
+      <description>true  Course Description In this course, students will learn how to use statistical models to analyze real-world data. Students will develop an understanding to how to choose the best regression model for a different types of response variables, include and transform different types of explanatory variables, and fit models with statistical software. This course will encourage and foster communication skills to convey results precisely and clearly to a general, non-technical audience.</description>
+    </item>
+    
+    <item>
+      <title>Getting Started in the class</title>
+      <link>/2020/01/20200123-gettingstarted/</link>
+      <pubDate>Mon, 20 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/01/20200123-gettingstarted/</guid>
+      <description>true  Welcome to Multiple Regression! I’m looking forward to working with you this semester, getting to know each of you and hopefully helping to expand your skills as emerging data scientists.
+What are we doing in this course? I hope that by the end of the semester you will have a clear, confident identity as a regression modeller. Being able to work with data, fitting regression models, and being able to communicate what you did and what you found will be extremely valuable skills in quantitative-oriented work in your future.</description>
+    </item>
+    
+    <item>
+      <title>Getting Started in the class</title>
+      <link>/2020/01/20200123-gettingstarted/</link>
+      <pubDate>Mon, 20 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/01/20200123-gettingstarted/</guid>
+      <description>Welcome to Multiple Regression! I&#39;m looking forward to working with you this semester, getting to know each of you and hopefully helping to expand your skills as emerging data scientists.
+What are we doing in this course? I hope that by the end of the semester you will have a clear, confident identity as a regression modeller. Being able to work with data, fitting regression models, and being able to communicate what you did and what you found will be extremely valuable skills in quantitative-oriented work in your future.</description>
+    </item>
+    
+  </channel>
+</rss>
