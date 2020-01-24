@@ -45,7 +45,7 @@
         <url>
             <loc>/categories/</loc>
             
-                <lastmod>2020-01-23T23:54:42+08:00</lastmod>
+                <lastmod>2019-08-25T16:22:42+08:00</lastmod>
             
             
                 <changefreq>weekly</changefreq>
@@ -59,21 +59,7 @@
         <url>
             <loc>/tags/course-logistics/</loc>
             
-                <lastmod>2020-01-23T23:54:42+08:00</lastmod>
-            
-            
-                <changefreq>weekly</changefreq>
-            
-            
-                <priority>0.5</priority>
-            
-            
-        </url>
-    
-        <url>
-            <loc>/tags/getting-started/</loc>
-            
-                <lastmod>2020-01-23T23:54:42+08:00</lastmod>
+                <lastmod>2019-08-25T16:22:42+08:00</lastmod>
             
             
                 <changefreq>weekly</changefreq>
@@ -87,7 +73,7 @@
         <url>
             <loc>/categories/getting-started/</loc>
             
-                <lastmod>2020-01-23T23:54:42+08:00</lastmod>
+                <lastmod>2019-08-25T16:22:42+08:00</lastmod>
             
             
                 <changefreq>weekly</changefreq>
@@ -99,35 +85,7 @@
         </url>
     
         <url>
-            <loc>/syllabus/</loc>
-            
-                <lastmod>2020-01-23T23:54:42+08:00</lastmod>
-            
-            
-                <changefreq>weekly</changefreq>
-            
-            
-                <priority>0.5</priority>
-            
-            
-        </url>
-    
-        <url>
-            <loc>/tags/</loc>
-            
-                <lastmod>2020-01-23T23:54:42+08:00</lastmod>
-            
-            
-                <changefreq>weekly</changefreq>
-            
-            
-                <priority>0.5</priority>
-            
-            
-        </url>
-    
-        <url>
-            <loc>/2020/01/20200123-gettingstarted/</loc>
+            <loc>/tags/getting-started/</loc>
             
                 <lastmod>2019-08-25T16:22:42+08:00</lastmod>
             
@@ -156,6 +114,20 @@
     
         <url>
             <loc>/posts/</loc>
+            
+                <lastmod>2019-08-25T16:22:42+08:00</lastmod>
+            
+            
+                <changefreq>weekly</changefreq>
+            
+            
+                <priority>0.5</priority>
+            
+            
+        </url>
+    
+        <url>
+            <loc>/tags/</loc>
             
                 <lastmod>2019-08-25T16:22:42+08:00</lastmod>
             
